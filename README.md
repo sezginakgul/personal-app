@@ -1,1 +1,1 @@
-# django-starter-project
+# personal app
